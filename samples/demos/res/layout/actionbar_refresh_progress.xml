@@ -10,6 +10,6 @@
     <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Click the refresh icon for a demonstration of overlaying a 3-second progress indicator on top of a refresh action"
+            android:text="@string/refresh_progress"
         />
 </LinearLayout>
